@@ -1,0 +1,6 @@
+importHint:
+  gradle:
+    projectsToImport:
+      - ideavim
+      - vim-engine
+      - scripts
